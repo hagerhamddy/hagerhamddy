@@ -25,3 +25,5 @@ Artificial Intelligence, and Data Science.
 
 ### 📫 Connect With Me
 - GitHub: https://github.com/hagerhamddy
+- mail: hagerhamddy@icloud.com
+- phone number: +201021262964
